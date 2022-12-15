@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"boomer",
+			"ellis",
+			[
+				174,
+				136,
+				93
+			]
+		],
+		[
+			"adrenaline",
+			"ellis",
+			[
+				174,
+				136,
+				93
+			]
+		],
+		[
+			"stalked",
+			"hunter",
+			[
+				33,
+				31,
+				78
+			]
+		],
+		[
+			"hunt",
+			"hunter",
+			[
+				33,
+				31,
+				78
+			]
+		],
+		[
+			"sinister-stunts",
+			"hunter",
+			[
+				33,
+				31,
+				78
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "left",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Dead Center",
+	"weekName": "left",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
