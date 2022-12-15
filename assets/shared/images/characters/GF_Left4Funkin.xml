@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Left4Funkin.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gf_Dance_Idle0000" x="0" y="0" width="572" height="954" frameX="-15" frameY="-22" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0001" x="0" y="0" width="572" height="954" frameX="-15" frameY="-22" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0002" x="572" y="0" width="595" height="948" frameX="0" frameY="-27" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0003" x="572" y="0" width="595" height="948" frameX="0" frameY="-27" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0004" x="1167" y="0" width="572" height="954" frameX="-15" frameY="-22" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0005" x="1167" y="0" width="572" height="954" frameX="-15" frameY="-22" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0006" x="1739" y="0" width="501" height="960" frameX="-54" frameY="-16" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0007" x="1739" y="0" width="501" height="960" frameX="-54" frameY="-16" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0008" x="2240" y="0" width="531" height="968" frameX="-43" frameY="-9" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0009" x="2240" y="0" width="531" height="968" frameX="-43" frameY="-9" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0010" x="2771" y="0" width="549" height="971" frameX="-32" frameY="-6" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0011" x="2771" y="0" width="549" height="971" frameX="-32" frameY="-6" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0012" x="3320" y="0" width="565" height="967" frameX="-22" frameY="-10" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0013" x="3320" y="0" width="565" height="967" frameX="-22" frameY="-10" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0014" x="0" y="971" width="604" height="971" frameX="-30" frameY="-6" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0015" x="0" y="971" width="604" height="971" frameX="-30" frameY="-6" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0016" x="604" y="971" width="627" height="972" frameX="-18" frameY="-5" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0017" x="604" y="971" width="627" height="972" frameX="-18" frameY="-5" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0018" x="1231" y="971" width="604" height="971" frameX="-30" frameY="-6" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0019" x="1231" y="971" width="604" height="971" frameX="-30" frameY="-6" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0020" x="1835" y="971" width="576" height="972" frameX="-39" frameY="-5" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0021" x="1835" y="971" width="576" height="972" frameX="-39" frameY="-5" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0022" x="2411" y="971" width="555" height="972" frameX="-46" frameY="-5" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0023" x="2411" y="971" width="555" height="972" frameX="-46" frameY="-5" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0024" x="2966" y="971" width="522" height="977" frameX="-62" frameY="0" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0025" x="2966" y="971" width="522" height="977" frameX="-62" frameY="0" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0026" x="3488" y="971" width="486" height="977" frameX="-80" frameY="0" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0027" x="3488" y="971" width="486" height="977" frameX="-80" frameY="0" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0028" x="0" y="1948" width="489" height="977" frameX="-80" frameY="0" frameWidth="645" frameHeight="977"/>
+	<SubTexture name="Gf_Dance_Idle0029" x="0" y="1948" width="489" height="977" frameX="-80" frameY="0" frameWidth="645" frameHeight="977"/>
+</TextureAtlas>

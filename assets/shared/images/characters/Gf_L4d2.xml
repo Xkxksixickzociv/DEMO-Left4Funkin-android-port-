@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gf L4d2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="5" y="5" width="325" height="612" frameX="0" frameY="-17" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0001" x="5" y="5" width="325" height="612" frameX="0" frameY="-17" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0002" x="335" y="5" width="325" height="615" frameX="-5" frameY="-14" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0003" x="335" y="5" width="325" height="615" frameX="-5" frameY="-14" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0004" x="665" y="5" width="327" height="618" frameX="-10" frameY="-12" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0005" x="665" y="5" width="327" height="618" frameX="-10" frameY="-12" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0006" x="997" y="5" width="325" height="624" frameX="-13" frameY="-6" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0007" x="997" y="5" width="325" height="624" frameX="-13" frameY="-6" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0008" x="1327" y="5" width="325" height="630" frameX="-16" frameY="0" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0009" x="1327" y="5" width="325" height="630" frameX="-16" frameY="0" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0010" x="1657" y="5" width="326" height="630" frameX="-16" frameY="0" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0011" x="1657" y="5" width="326" height="630" frameX="-16" frameY="0" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0012" x="1657" y="5" width="326" height="630" frameX="-16" frameY="0" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0013" x="5" y="640" width="325" height="626" frameX="-23" frameY="-4" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceLeft0014" x="5" y="640" width="325" height="626" frameX="-23" frameY="-4" frameWidth="348" frameHeight="630"/>
+	<SubTexture name="danceRight0000" x="335" y="640" width="326" height="615" frameX="-20" frameY="-14" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0001" x="335" y="640" width="326" height="615" frameX="-20" frameY="-14" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0002" x="666" y="640" width="326" height="622" frameX="-18" frameY="-8" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0003" x="666" y="640" width="326" height="622" frameX="-18" frameY="-8" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0004" x="997" y="640" width="332" height="626" frameX="-9" frameY="-4" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0005" x="997" y="640" width="332" height="626" frameX="-9" frameY="-4" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0006" x="1334" y="640" width="326" height="629" frameX="-12" frameY="-2" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0007" x="1334" y="640" width="326" height="629" frameX="-12" frameY="-2" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0008" x="1665" y="640" width="326" height="631" frameX="-8" frameY="0" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0009" x="1665" y="640" width="326" height="631" frameX="-8" frameY="0" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0010" x="5" y="1276" width="326" height="630" frameX="-8" frameY="-1" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0011" x="5" y="1276" width="326" height="630" frameX="-8" frameY="-1" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0012" x="5" y="1276" width="326" height="630" frameX="-8" frameY="-1" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0013" x="336" y="1276" width="326" height="625" frameX="0" frameY="-6" frameWidth="346" frameHeight="631"/>
+	<SubTexture name="danceRight0014" x="336" y="1276" width="326" height="625" frameX="0" frameY="-6" frameWidth="346" frameHeight="631"/>
+</TextureAtlas>
